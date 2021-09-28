@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Havva. Nice to meet you 🥰</h1>
+<h1 align="center">Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Havva. Nice to meet you 🥰</h1>
 <h3 align="center">A passionate software developer from Turkey!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawacodes" alt="hawacodes" /> </p>
 <p>I'm a 26-years-old web developer, who loves open source. I keep myself updated and I am currently working on my portfolio using React.js. I am also interested in game development using Unity. Hope I can fulfill my dream to create mobile educational games for kids! Also, I would love to continue giving classes voluntarily about Algorithms and Game dev for elementary school students. <b>Declare variables, not war.</b></p>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
@@ -27,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hawacodes&show_icons=true&locale=en" alt="hawacodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hawacodes&" alt="hawacodes" /></p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting new people</b> so if you want to say <b>hi, don't worry I am friendly</b> :)</em>
+
