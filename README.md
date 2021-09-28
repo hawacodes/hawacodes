@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hawacodes&show_icons=true&locale=en" alt="hawacodes" /></p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting new people</b> so if you want to say <b>hi, don't worry I am friendly</b> :)</em>
 
