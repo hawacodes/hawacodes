@@ -1,6 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Havva. Nice to meet you 🥰</h1>
-<h3 align="center">A passionate software developer from Turkey!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawacodes" alt="hawacodes" /> </p>
+<h1 align="left">Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Havva. Nice to meet you 🥰</h1>
+<h3 align="left">A passionate software developer from Turkey!</h3>
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=hawacodes" alt="hawacodes" /> </p>
+<img align='center' src='https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif' width='480'/>
 <p>I'm a 26-years-old web developer, who loves open source. I keep myself updated and I am currently working on my portfolio using React.js. I am also interested in game development using Unity. Hope I can fulfill my dream to create mobile educational games for kids! Also, I would love to continue giving classes voluntarily about Algorithms and Game dev for elementary school students. <b>Declare variables, not war.</b></p>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
