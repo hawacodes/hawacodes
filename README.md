@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Havva. Nice to meet you 🥰</h1>
 <h3 align="center">A passionate software developer from Turkey!</h3>
+<p>I'm a 26-years-old web developer, who loves open source. I keep myself updated and I am currently working on my portfolio using React.js. I am also interested in game development using Unity. Hope I can fulfill my dream to create mobile educational games for kids! Also, I would love to continue giving classes voluntarily about Algorithms and Game dev for elementary school students. <b>Declare variables, not war.</b></p>
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hawacodes" alt="hawacodes" /></a> </p>
 
 - 🌱 I’m currently learning **React js, Redux**
 
@@ -12,7 +13,7 @@
 - 📫 How to reach me **beyza.ozluoglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://twitter.com/hawacodesthat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hawacodesthat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hbeyza-ozluoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hbeyza-ozluoglu" height="30" width="40" /></a>
 <a href="https://instagram.com/hbeyzaozl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hbeyzaozl" height="30" width="40" /></a>
