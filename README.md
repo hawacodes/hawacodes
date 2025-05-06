@@ -2,11 +2,11 @@
 <h3 align="left">A passionate software developer from Turkey!</h3>
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=hawacodes" alt="hawacodes" /> </p>
 <img align='center' src='https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif' width='480'/>
-<p>I'm a 28-years-old web developer, who loves open source. I keep myself updated and I am currently working on my portfolio using React.js. I am also interested in game development using Unity. Hope I can fulfill my dream to create mobile educational games for kids! Also, I would love to continue giving classes voluntarily about Algorithms and Game dev for elementary school students. <b>Declare variables, not war.</b></p>
+<p>I'm a 30-years-old web developer, who loves open source. I keep myself updated and I am currently working on learning Blender and three.js. I would like to create 3D websites. Hope I can fulfill my dream to create mobile educational games for kids! Also, I would love to continue giving classes voluntarily about Algorithms and Game dev for elementary school students. <b>Declare variables, not war.</b></p>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 
-- 🌱 I’m currently learning **React js, Redux**
+- 🌱 I’m currently learning **Typescript, Blender, Three.js**
 
 - 🤝 I’m looking for help with **React js**
 
